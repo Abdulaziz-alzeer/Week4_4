@@ -1,0 +1,150 @@
+
+
+
+name : Abdelaziz Saleh Saad Alzeer 
+
+--------------------------------------------------------
+Question 1:
+hey from message1
+1
+--------------------------------------------------------
+Question 2:
+hey from message1
+1
+hey from message2
+hey from message1
+--------------------------------------------------------
+Question 3:
+Probability 1:
+
+hey from message1
+1
+hey from message3
+3
+hey from message 2
+3
+
+Probability 2:
+
+hey from message3
+3
+hey from message2
+3
+hey from message1
+1
+
+Probability 3:
+
+hey from message3
+3
+hey from message1
+1
+hey from message2
+3
+--------------------------------------------------------
+Question 4:
+
+Probability 1:
+
+hey from message1
+1
+hey from message3
+3
+hey from Main controller 
+hey from message 2
+3
+
+Probability 2:
+
+hey from message1
+1
+hey from Main controller
+hey from message3
+3
+hey from message2
+3
+
+Probability 3:
+
+hey from message3
+3
+hey from message2
+3
+hey from message1
+1
+hey from Main controller
+
+Probability 4:
+
+hey from message1
+1
+hey from message3
+3
+hey from message2
+3
+hey from Main controller
+
+Probability 5:
+
+hey from message3
+3
+hey from message1
+1
+hey from Main controller
+hey from message2
+3
+
+Probability 6:
+
+hey from message3
+3
+hey from message1
+1
+hey from message2
+3
+hey from Main controller
+
+--------------------------------------------------------
+
+Question 5:
+
+Probability 1:
+hey from message1
+1
+hey from message3
+3
+hey from message2
+3
+hey from Main controller
+
+Probability 2:
+
+hey from message3
+3
+hey from message1
+1
+hey from message2
+3
+hey from Main controller 
+
+Probability 3:
+hey from message3
+3
+hey from message2 
+3
+hey from Main controller 
+hey from message1 
+1
+
+Probability 4:
+
+hey from message3
+3
+hey from message1
+1
+hey from message2
+3
+hey from Main controller 
+
+--------------------------------------------------------
+
